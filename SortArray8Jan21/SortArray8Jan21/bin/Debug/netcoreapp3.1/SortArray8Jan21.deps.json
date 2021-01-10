@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SortArray8Jan21/1.0.0": {
+        "runtime": {
+          "SortArray8Jan21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortArray8Jan21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
